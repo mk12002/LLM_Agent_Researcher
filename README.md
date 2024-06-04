@@ -10,6 +10,8 @@ CrewAI is used to develop the system. Goolge Gemini API is used as the beckend L
 To run the project on your local system, in the LLM_Agent_Researcher folder create a local environment with all the required libraries and modules installed.
 
 
+
+
 In command prompt window, run:
 
 *conda create -p venv python==3.10 -y*
@@ -17,11 +19,15 @@ In command prompt window, run:
 , to create the environment. 
 
 
+
+
 Then run:
 
 *pip install -r requirement.txt*
 
 , to install the required modules in the environment.
+
+
 
 
 Create a Google Gemini API key from [https://ai.google.dev/gemini-api/docs/api-key] and SEPER API key [from https://serper.dev/] and insert them in .env file and save it. 
