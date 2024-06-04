@@ -1,5 +1,6 @@
-<h3>Hello There
+<h4>Hello There</h4>
 
+<h2>
 This repository contains a project on A 2-LLM Agent based system. The 2 agents are News Researcher and News Writer. Upon giving a specific topic, the News Researcher browses Google to find legitimate souces of information on the technical aspects of the topic. The search results, given as output by the first agent, the News Researchers, is used by the second agent, the News Writer, to create an engaging 4-paragraph article, which gets stored in a markdown file. 
 
 CrewAI is used to develop the system. Goolge Gemini API is used as the beckend LLM model and SERPER API has been used as tool to perform Google search on the given topic. 
@@ -16,4 +17,4 @@ Then run:
 
 Create a Google Gemini API key from [https://ai.google.dev/gemini-api/docs/api-key] and SEPER API key [from https://serper.dev/] and insert them in .env file and save it. 
 
-And you're good to go!! <h3>
+And you're good to go!! </h2>
