@@ -30,7 +30,7 @@ Then run:
 
 
 
-Create a Google Gemini API key from [https://ai.google.dev/gemini-api/docs/api-key] and SEPER API key [from https://serper.dev/] and insert them in .env file and save it. 
+Create a Google Gemini API key from [https://ai.google.dev/gemini-api/docs/api-key] and SEPER API key from [https://serper.dev/] and insert them in .env file and save it. 
 
 
 
